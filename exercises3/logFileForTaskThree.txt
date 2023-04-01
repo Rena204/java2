@@ -1,0 +1,19 @@
+март. 31, 2023 7:03:14 PM Lesson2.FourthTask main
+SEVERE: Задано вычислить 5.0+5.0
+март. 31, 2023 7:03:14 PM Lesson2.FourthTask main
+SEVERE: Done
+март. 31, 2023 7:07:18 PM Lesson2.FourthTask main
+SEVERE: Задано вычислить 5.0+2.0
+март. 31, 2023 7:07:18 PM Lesson2.FourthTask main
+SEVERE: Done
+март. 31, 2023 7:40:47 PM Lesson2.task3 main
+SEVERE: Задано вычислить 5.0-6.0
+март. 31, 2023 7:40:47 PM Lesson2.task3 main
+SEVERE: Doneапр. 01, 2023 11:54:46 AM exercises3.task3 main
+SEVERE: Задано вычислить 5.0+6.0
+апр. 01, 2023 11:54:46 AM exercises3.task3 main
+SEVERE: Done
+апр. 01, 2023 11:55:57 AM exercises3.task3 main
+SEVERE: Задано вычислить 7.0+9.0
+апр. 01, 2023 11:55:57 AM exercises3.task3 main
+SEVERE: Done
